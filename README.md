@@ -1,16 +1,16 @@
-👋 Hi, I’m Joana — a psychologist in transition to tech, passionate about human-centered AI.
+👋 Hi, I’m Joana a psychologist passionate about building human-centered AI.
 
-👀 I’m interested in AI applications, agents, ethical tech, and creative coding with purpose.
+👀 I’m exploring applications of AI, intelligent agents, ethical technology, and creative coding with purpose.
 
-🌱 I’m currently learning Python, LangChain, and how to build intelligent apps that solve real-life problems.
+🌱 I’m committed to continuous learning, currently focusing on Python, LangChain, and designing intelligent systems that solve real-world problems.
 
-💞️ I’m looking to collaborate on beginner-friendly open source projects and anything that blends empathy + technology.
+💞️ I’m open to collaborating on beginner-friendly open source projects and anything that blends empathy + technology.
 
-📫 How to reach me: www.https://www.linkedin.com/in/joana-ottoni-7820b095/ or here on GitHub.
+📫 Let’s connect: LinkedIn or right here on GitHub.
 
 😄 Pronouns: she/her (ela/dela)
 
-⚡ Fun fact: My GitHub name honors Chinnamasta — a fierce aspect of Kali — symbol of radical transformation and self-awareness.
+⚡ Fun fact: My GitHub name honors Chinnamasta a fierce aspect of the goddess Kali, symbol of radical transformation and self-awareness.
 
 
 <!---
